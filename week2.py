@@ -6,3 +6,4 @@ holiday= input("what is your favoite holiday?")
 print("your favorite holiday is" + holiday )
 # print out the day and their favorite holiday in a sentence
 print("today is" + day + " and your favorite holiday is" + holiday)
+# making a change to the file 
